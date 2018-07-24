@@ -1,5 +1,6 @@
 body {
     margin: 0;
+    font-family: 'Open Sans', sans-serif;
 }
 
 .App {
@@ -23,6 +24,7 @@ body {
     justify-content: center;
     box-sizing: border-box;
     padding: 20px;
+    font-weight: bold;
 }
 
 .AppRoom {
@@ -31,6 +33,7 @@ body {
     justify-content: center;
     box-sizing: border-box;
     padding: 20px;
+    font-weight: bold;
 }
 
 .AppBody {

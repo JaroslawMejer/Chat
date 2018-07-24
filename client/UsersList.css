@@ -5,12 +5,16 @@
     justify-content: flex-start;
     flex-direction: column;
     border-right: 1px solid #ccc;
+    text-align: center;
 }
 
 .UsersOnline {
     padding: 20px;
     text-align: center;
     background: #ccc;
+}
+.numberOfUsers{
+    color: rgb(62, 124, 246);
 }
 
 .UsersList {
